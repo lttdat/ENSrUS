@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `ENSrUS.ETH`,
+    title: `dat.ETH`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
-    siteUrl: `https://ensrus.eth.limo`,
+    author: `@dat.eth`,
+    siteUrl: `https://dat.eth`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
