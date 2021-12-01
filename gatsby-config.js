@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `dat.ETH`,
+    title: `dat.eth`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `@dat.eth`,
     siteUrl: `https://dat.eth`,
