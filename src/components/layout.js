@@ -33,7 +33,11 @@ const Layout = ({ children }) => {
           padding: `0 1.0875rem 1.45rem`,
         }}
       >
-        <main>{children}</main>
+        <main><iframe src='https://opensea.io/ensrus?embed=true'
+        width='100%'
+        height='1400px'
+        frameborder='0'
+        allowfullscreen></iframe></main>
         <footer
           style={{
             marginTop: `2rem`,
