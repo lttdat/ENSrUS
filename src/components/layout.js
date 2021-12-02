@@ -41,8 +41,7 @@ const Layout = ({ children }) => {
         <footer
           style={{
             marginTop: `2rem`,
-            marginLeft: `auto`,
-            marginRight: `auto`,
+            textAlign: `center`,
           }}
         >
           © {new Date().getFullYear()}, Built with love for your purchase on
