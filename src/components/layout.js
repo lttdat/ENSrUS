@@ -29,7 +29,7 @@ const Layout = ({ children }) => {
       <div
         style={{
           margin: `0 auto`,
-          maxWidth: `75%`,
+          maxWidth: `100%`,
           padding: `0 1.0875rem 1.45rem`,
         }}
       >
@@ -41,6 +41,8 @@ const Layout = ({ children }) => {
         <footer
           style={{
             marginTop: `2rem`,
+            marginLeft: `auto`,
+            marginRight: `auto`,
           }}
         >
           © {new Date().getFullYear()}, Built with love for your purchase on
