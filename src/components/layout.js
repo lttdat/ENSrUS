@@ -33,7 +33,7 @@ const Layout = ({ children }) => {
           padding: `0 1.0875rem 1.45rem`,
         }}
       >
-        <main><iframe src='https://opensea.io/dat_eth?embed=true'
+        <main><iframe src='https://opensea.io/moonmaker_xyz?embed=true'
         width='100%'
         height='1400px'
         frameborder='0'
@@ -44,9 +44,9 @@ const Layout = ({ children }) => {
             textAlign: `center`,
           }}
         >
-          © {new Date().getFullYear()}, Built with love for your purchase on
+          © {new Date().getFullYear()}, Built with love for your support on
           {` `}
-          <a href="https://opensea.io/dat_eth">Opensea</a>
+          <a href="https://opensea.io/moonmaker_xyz">Opensea</a>
         </footer>
       </div>
     </>
