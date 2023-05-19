@@ -35,7 +35,7 @@ const Layout = ({ children }) => {
       >
         <main><iframe src='https://moonmaker.xyz/banner.jpg'
         width='100%'
-        height='1400px'
+        height='100%'
         frameborder='0'
         allowfullscreen></iframe></main>
         <footer
