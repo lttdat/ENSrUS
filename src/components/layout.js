@@ -34,14 +34,9 @@ const Layout = ({ children }) => {
         }}
       >
         <main>
-        <StaticImage
-      src="../images/gatsby-astronaut.png"
-      width={300}
-      quality={95}
-      formats={["auto", "webp", "avif"]}
-      alt="A Gatsby astronaut"
-      style={{ marginBottom: `1.45rem` }}
-    />
+        <div class="container w3-center" style="margin-bottom:32px">
+    <img src="../images/gatsby-astronaut.png" alt="Banner" class="responsive">
+</div>
 </main>
         <footer
           style={{
