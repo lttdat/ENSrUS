@@ -33,11 +33,9 @@ const Layout = ({ children }) => {
           padding: `0 1.0875rem 1.45rem`,
         }}
       >
-        <main><iframe src='https://moonmaker.xyz/banner.jpg'
-        width='100%'
-        height='100%'
-        frameborder='0'
-        ></iframe></main>
+        <main>
+<img src="https://moonmaker.xyz/banner.jpg" alt="Banner" width="100%">
+</main>
         <footer
           style={{
             marginTop: `2rem`,
